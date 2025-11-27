@@ -1,6 +1,6 @@
 # Exam
 Enjoy the exam by copy pasting the code 
-1B
+**1B**
 <!DOCTYPE html>
 <html>
 <head>
@@ -87,7 +87,7 @@ Enjoy the exam by copy pasting the code
   </script>
 </body>
 </html>
-1C
+**1C**
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -180,7 +180,7 @@ Enjoy the exam by copy pasting the code
   </script>
 </body>
 </html>
-1E
+**1E**
 <!DOCTYPE html>
 <html>
 <head>
@@ -238,7 +238,7 @@ Enjoy the exam by copy pasting the code
   </script>
 </body>
 </html>
-2A
+**2A**
 CounterApp.js
 import React, { Component } from 'react';
 class CounterApp extends Component {
@@ -313,7 +313,7 @@ APP.css
 .counter-btn:hover:not(:disabled) {
   filter: brightness(0.9);
 }
-2c. Write a React program to handle the button click events in functional component
+**2c. Write a React program to handle the button click events in functional component**
 
 ButtonClickDemo.js
 import React from 'react';
@@ -385,7 +385,7 @@ APP.css
 .btn:hover {
   background-color: #0056b3;
 }
-2e. Write a React program to display text using String literals
+**2e. Write a React program to display text using String literals**
 import React from "react";
 
 function greet(name) {
@@ -511,7 +511,7 @@ App.css
   border-radius: 8px;
   background: white;
 }
-  3C
+**  3C**
 import React from "react";
 const boxStyle = {
   border: "2px solid #ccc",
